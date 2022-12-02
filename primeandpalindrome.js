@@ -1,6 +1,6 @@
 let num = 121;
 let prime = 0;
-let rem,final,temp = 0;
+let rem,temp,final = 0;
 
 temp = num;
 while(temp>0){
